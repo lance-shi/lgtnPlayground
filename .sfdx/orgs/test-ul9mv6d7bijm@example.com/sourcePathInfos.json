@@ -1,0 +1,164 @@
+[
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1546256706000,
+            "changeTime": 1546256706000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1546256706000,
+            "changeTime": 1546256706000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1546339464000,
+            "changeTime": 1546339464000,
+            "contentHash": "156bbc6b81bd21c2cc4d7f6928839c41ba346793",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1546339464000,
+            "changeTime": 1546339464000,
+            "contentHash": "f4018045cfb458b2734d2b09cf762c2567878c41",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1546256793000,
+            "changeTime": 1546256793000,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/staticresources/counterjs.resource-meta.xml",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/staticresources/counterjs.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1546339464000,
+            "changeTime": 1546339464000,
+            "contentHash": "4486a1b0b1ebebd2232bda16dbb5cd729d92d089",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/staticresources/counterjs.js",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/staticresources/counterjs.js",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1546339530000,
+            "changeTime": 1546339530000,
+            "contentHash": "d41ef22f48ff868f35af4d4255b8b8225da5fe50",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter/Counter.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter/Counter.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1546339464000,
+            "changeTime": 1546339464000,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter/Counter.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter/Counter.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 523,
+            "modifiedTime": 1546340197000,
+            "changeTime": 1546340197000,
+            "contentHash": "4b0968ad5cc249887584a42c295b4830f354a0c9"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1546339464000,
+            "changeTime": 1546339464000,
+            "contentHash": "39d8632826988dacff8a386afca113a296fea7e9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1546339744000,
+            "changeTime": 1546339744000,
+            "contentHash": "3e843adf991b7a116126a7d71d4c51e589855e27",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter/CounterController.js",
+        {
+            "sourcePath": "/Users/lanceshi/developer/lightningProjs/lgtnPlayground/force-app/main/default/aura/Counter/CounterController.js",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1546339883000,
+            "changeTime": 1546339883000,
+            "contentHash": "1eb246c07b26fbeca237642adbb26e8f01eb6926",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
